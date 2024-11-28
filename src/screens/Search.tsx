@@ -132,6 +132,7 @@ const styles = (theme: any) =>
       flex: 1,
       // padding: 25,
       backgroundColor: "#FFF",
+      paddingTop: 50,
     },
     topBar: {
       flexDirection: "row",
@@ -241,8 +242,7 @@ const styles = (theme: any) =>
       padding: 16,
       marginBottom: 12,
       // flex: 1,
-      marginHorizontal: 8,
-      width: "45%",
+      width: "47%",
     },
     productImage: {
       width: "100%",

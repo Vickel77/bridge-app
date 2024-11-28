@@ -1,5 +1,4 @@
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import React from "react";
 import Home from "../screens/Home";
 import Profile from "../screens/Profile";
 import Order from "../screens/Order";
@@ -10,7 +9,6 @@ import HomeIcon from "../components/icons/HomeIcon";
 import OrderIcon from "../components/icons/OrderIcon";
 import SearchIcon from "../components/icons/SearchIcon";
 import TrendIcon from "../components/icons/TrendIcon";
-import ProfileIcon from "../components/icons/ProfileIcon";
 import { useNavigation, useTheme } from "@react-navigation/native";
 import Icon from "react-native-vector-icons/MaterialIcons";
 

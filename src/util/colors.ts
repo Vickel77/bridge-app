@@ -22,7 +22,7 @@ export interface ColorProps {
 
 const colors: ColorProps = {
   light: {
-    text: "",
+    text: "#181725",
     primary: "#12AF37",
     danger: "",
     dangerAccent: "",
@@ -38,7 +38,7 @@ const colors: ColorProps = {
     purpleAccent: "",
   },
   dark: {
-    text: "",
+    text: "#181725",
     primary: "#12AF37",
     danger: "",
     dangerAccent: "",
